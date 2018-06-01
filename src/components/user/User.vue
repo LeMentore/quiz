@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>The User Page</h1>
+        <h1 style="text-align: center">The User Page</h1>
         <hr>
         <button @click="navigateToHome" class="btn btn-primary">Go to Home</button>
         <hr>
